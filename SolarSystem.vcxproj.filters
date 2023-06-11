@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="image.cpp">
+      <Filter>Image</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceObject.cpp">
+      <Filter>SpaceObject</Filter>
+    </ClCompile>
+    <ClCompile Include="MyError.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Image">
+      <UniqueIdentifier>{5c795d67-3479-4d35-a74a-966e34f885b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SpaceObject">
+      <UniqueIdentifier>{287b2b5e-541a-4b03-ad5f-fba67a6f2037}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="image.h">
+      <Filter>Image</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceObject.h">
+      <Filter>SpaceObject</Filter>
+    </ClInclude>
+    <ClInclude Include="MyError.h" />
+  </ItemGroup>
+</Project>

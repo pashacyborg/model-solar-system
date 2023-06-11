@@ -1,0 +1,16 @@
+﻿  image.cpp
+  main.cpp
+D:\projects\clone\model-solar-system\main.cpp(247,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\main.cpp(249,34): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\main.cpp(279,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\main.cpp(280,34): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\main.cpp(304,31): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\main.cpp(305,30): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  MyError.cpp
+  SpaceObject.cpp
+D:\projects\clone\model-solar-system\SpaceObject.cpp(171,40): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\projects\clone\model-solar-system\SpaceObject.cpp(171,33): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\projects\clone\model-solar-system\SpaceObject.cpp(190,12): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\projects\clone\model-solar-system\SpaceObject.cpp(191,15): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Создание кода...
+  SolarSystem.vcxproj -> D:\projects\clone\model-solar-system\Debug\SolarSystem.exe
